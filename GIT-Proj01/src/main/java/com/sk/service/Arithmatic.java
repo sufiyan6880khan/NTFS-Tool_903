@@ -9,7 +9,11 @@ public class Arithmatic
     
     public void mul(int a, int b) {
     	
-    	System.out.println("Multifiacation  is "+a*b);	
+
+    
+
+    	System.out.println("mul is "+a*b);	
+
     }
 
 }
