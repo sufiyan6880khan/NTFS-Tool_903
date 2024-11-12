@@ -9,7 +9,7 @@ public class TransferMoney {
 
 	
 	public String transferFailed() {
-		return "Your maoney transfered failed....";
+		return "Your maoney is transfered failed....";
 	}
 	
 }
