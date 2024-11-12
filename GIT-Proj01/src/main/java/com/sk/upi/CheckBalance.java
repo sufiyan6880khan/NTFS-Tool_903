@@ -6,7 +6,7 @@ public class CheckBalance {
 	
 	public String chekBalance(String upiId)
 	{
-		return  "Your Balance is ******** ";
+		return  "Your Balance is ******** ";  
 	}
 
 }
