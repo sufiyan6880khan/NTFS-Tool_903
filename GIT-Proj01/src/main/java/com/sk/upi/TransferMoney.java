@@ -7,4 +7,9 @@ public class TransferMoney {
 		return "Your money tranfered successfully";
 	}
 
+	
+	public String transferFailed() {
+		return "Your maoney transfered failed....";
+	}
+	
 }
